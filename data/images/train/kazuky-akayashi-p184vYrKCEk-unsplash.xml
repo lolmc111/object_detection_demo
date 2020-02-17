@@ -1,0 +1,26 @@
+<annotation>
+	<folder>training</folder>
+	<filename>kazuky-akayashi-p184vYrKCEk-unsplash.jpg</filename>
+	<path>/Users/michaelcao/Desktop/object-detection/training/kazuky-akayashi-p184vYrKCEk-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>6000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1489</xmin>
+			<ymin>146</ymin>
+			<xmax>4723</xmax>
+			<ymax>3973</ymax>
+		</bndbox>
+	</object>
+</annotation>

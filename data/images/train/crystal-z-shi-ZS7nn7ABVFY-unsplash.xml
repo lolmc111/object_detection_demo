@@ -1,0 +1,26 @@
+<annotation>
+	<folder>training</folder>
+	<filename>crystal-z-shi-ZS7nn7ABVFY-unsplash.jpg</filename>
+	<path>/Users/michaelcao/Desktop/object-detection/training/crystal-z-shi-ZS7nn7ABVFY-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5365</width>
+		<height>3577</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>784</xmin>
+			<ymin>953</ymin>
+			<xmax>4461</xmax>
+			<ymax>2941</ymax>
+		</bndbox>
+	</object>
+</annotation>

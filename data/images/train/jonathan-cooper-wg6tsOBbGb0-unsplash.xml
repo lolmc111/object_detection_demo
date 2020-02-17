@@ -1,0 +1,26 @@
+<annotation>
+	<folder>training</folder>
+	<filename>jonathan-cooper-wg6tsOBbGb0-unsplash.jpg</filename>
+	<path>/Users/michaelcao/Desktop/object-detection/training/jonathan-cooper-wg6tsOBbGb0-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5499</width>
+		<height>3666</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1251</xmin>
+			<ymin>862</ymin>
+			<xmax>3310</xmax>
+			<ymax>3474</ymax>
+		</bndbox>
+	</object>
+</annotation>

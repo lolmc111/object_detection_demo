@@ -1,0 +1,26 @@
+<annotation>
+	<folder>training</folder>
+	<filename>oleg-ivanov-MKAo_NukhdA-unsplash.jpg</filename>
+	<path>/Users/michaelcao/Desktop/object-detection/training/oleg-ivanov-MKAo_NukhdA-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3456</width>
+		<height>5184</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>556</xmin>
+			<ymin>723</ymin>
+			<xmax>3456</xmax>
+			<ymax>4542</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>raphael-schaller-psPEo8Cgh7U-unsplash.jpg</filename>
+	<path>/Users/michaelcao/Desktop/object-detection/test/raphael-schaller-psPEo8Cgh7U-unsplash.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3835</width>
+		<height>5752</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>906</xmin>
+			<ymin>497</ymin>
+			<xmax>3835</xmax>
+			<ymax>5229</ymax>
+		</bndbox>
+	</object>
+</annotation>
